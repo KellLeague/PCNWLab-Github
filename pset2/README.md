@@ -200,10 +200,9 @@ Insert about me
 
 ---
 ### Ivy Strickland
-<img src='' width='150'>
+<img src='Ivy.jpg' width='150'>
 
-Insert about me
-
+Issa Future Exterminater
 ---
 ### Karan Taneja
 <img src='' width='150'>
