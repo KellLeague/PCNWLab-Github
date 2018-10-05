@@ -200,7 +200,7 @@ Insert about me
 
 ---
 ### Ivy Strickland
-<img src='Ivy.jpg' width='150'>
+<img src='' width='150'>
 
 Issa Future Exterminater
 ---
